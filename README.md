@@ -10,7 +10,7 @@ This is a tool for benchmarking prediction skill of forecast of ENSO-related ext
 
 It provides tools necessary to perform a wide range of tasks, such as:
 
-* benchmarking predictive skill of deterministic forecasts of binary events
+* benchmarking predictive skill of deterministic forecasts of binary events (e.g. climate network-based ENSO forecast)
 * visualization of a quantitative forecast validation
 * providing composite analysis for weather anomalies (e.g. temperature anoamlies or precipitation anomalies) related to climate variabilities such as ENSO, AAO and etc.
 * performing univariate Extreme Value Analysis ([EVA](https://en.wikipedia.org/wiki/Extreme_value_theory)) for ENSO-related weather extremes based on the python package [pyextremes](https://georgebv.github.io/pyextremes/)
@@ -20,8 +20,6 @@ It provides tools necessary to perform a wide range of tasks, such as:
 
 latest version of this python library will be available in March
 
-
-## Illustrations
 
 ## Acknowledgements
 
