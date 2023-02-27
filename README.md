@@ -23,5 +23,5 @@ latest version of this python library will be available in March
 
 ## Acknowledgements
 
-This work is part of the Climate Advanced Fore-casting of sub-seasonal Extremes ([CAFE](http://www.cafes2se-itn.eu/the-project)) which has received fund-ing from the European Union’s Horizon 2020 research and innova-tion programme under the Marie Skłodowska-Curie grant. 
+This work is part of the Climate Advanced Fore-casting of sub-seasonal Extremes ([CAFE](http://www.cafes2se-itn.eu/the-project)) which has received fund-ing from the European Union’s Horizon 2020 research and innova-tion programme under the Marie Skłodowska-Curie grant agreement No. 813844. 
 
