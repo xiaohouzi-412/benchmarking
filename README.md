@@ -1,24 +1,18 @@
-# benchmarking-tool_CAFE
-This is a tool for benchmarking prediction skill of forecast of ENSO-related extremes 
+# benchmarking_CAFE
+These are the main codings for the reproduction for the work Benchmarking prediction skill in binary El Niño forecasts, which is published on Climate Dynamicss (https://doi.org/10.1007/s00382-021-05950-2).
 
 ## About
-**Documentation:** https://github.com/xiaohouzi-412/benchmarking-tool_CAFE
+**Documentation:** https://github.com/xiaohouzi-412/benchmarking/tree/master
 
 **Support:** ask a question or create an issue, any input is appreciated and would help develop the project
 
-**benchmarking-tool_CAFE** is a Python library aimed at providing a benchmarking to estimate the predictive skill of ENSO-related extremes. 
+**Codings** aimed at providing a benchmarking to estimate the predictive skill of binary forecast like climate network-based El Niño forecasts. 
 
 It provides tools necessary to perform a wide range of tasks, such as:
 
+* reproducing establishment of climate network and apply this to El Niño prediction. 
 * benchmarking predictive skill of deterministic forecasts of binary events (e.g. climate network-based ENSO forecast)
 * visualization of a quantitative forecast validation
-* providing composite analysis for weather anomalies (e.g. temperature anoamlies or precipitation anomalies) related to climate variabilities such as ENSO, AAO and etc.
-* performing univariate Extreme Value Analysis ([EVA](https://en.wikipedia.org/wiki/Extreme_value_theory)) for ENSO-related weather extremes based on the python package [pyextremes](https://georgebv.github.io/pyextremes/)
-
-
-## Installation
-
-latest version of this python library will be available in March
 
 
 ## Acknowledgements
